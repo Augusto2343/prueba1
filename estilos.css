@@ -8,4 +8,9 @@ body{
 }
 h1{
     font-size: 29px;
+}main{
+    background-image: linear-gradient(to bottom, blue,yellow);
+}
+footer{
+    background-color: aliceblue;
 }
